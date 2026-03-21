@@ -1,0 +1,16 @@
+p {
+    background-color: blueviolet;
+    color: white;
+}
+
+.destaque {
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
+
+#username {
+    background-color: aqua;
+}
