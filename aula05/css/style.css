@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#titulo {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.menu{
+    background-color: gray;
+}
+
+.menu a:hover {
+    color: black;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    padding: 12px;
+}
+
+
+
+
+a.interno{
+    color: green;
+}
